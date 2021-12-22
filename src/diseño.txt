@@ -1,0 +1,6 @@
+/search
+
+Navbar
+search bar
+results
+footer
